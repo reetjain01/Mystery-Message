@@ -49,7 +49,7 @@ Ensure you have the following installed:
     Create a `.env` file in the root directory and add the following variables:
 
     ```env
-    NEXT_PUBLIC_API_URL=http://localhost:3000
+    MONGODB_URI=your-mongodb-atlas-url
     NEXTAUTH_SECRET=your-nextauth-secret
     RESEND_API_KEY=your-resend-api-key
     OPENAI_API_KEY=your-openai-api-key
